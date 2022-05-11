@@ -1,0 +1,398 @@
+{
+  "intents": [
+     {
+      "tag": "pun",
+      "patterns": [
+        "yes please",
+        "sure thing",
+        "tell me a bad joke",
+        "tell me a joke",
+        "tell me a pun",
+        "give me a pun",
+        "throw me a pun",
+        "puns please",
+        "joke",
+        "joke please",
+        "yes",
+        "absolutely",
+        "affirmative",
+        "amen",
+        "fine",
+        "alright",
+        "definitely",
+        "of course",
+        "undoubtedly",
+        "please try again",
+        "another!",
+        "new joke",
+        "another one",
+        "one more time",
+        "again",
+        "go for it"
+      ],
+      "responses": [
+        "Fun fact: Australia's biggest export is boomerangs. It's also their biggest import.",
+        "Before the invention of the wheel… everything was a drag!",
+        "My new thesaurus is terrible. Not only that, it's also terrible.",
+        "Imagine if Americans switched from pounds to kilograms overnight. There would be mass confusion!",
+        "It is inappropriate to make a dad joke if you are not a dad. It's a faux pa.",
+        "I have an addiction to cheddar cheese. But it's only mild.",
+        "If you haven't heard of the band 938 Megabytes, it's because they haven't had a gig yet.",
+        "I'm terrified of elevators so I'm going to start taking steps to avoid them.",
+        "Did you hear about the two thieves who stole a calendar? They each got six months.",
+        "I'm thinking about removing my spine. I feel like it's only holding me back.",
+        "Biologists have recently produced immortal frogs by removing their vocal cords. They can't croak.",
+        "The best way to communicate with a fish is to drop them a line.",
+        "On the surface of things, whales are always blowing it.",
+        "The marine biology seminars weren't created for entertainment, but for educational porpoises.",
+        "I can't tell if this fish is lying; she's being so koi.",
+        "Coffee beans are always late; they're chronic pro-caffeinators.",
+        "To fix a large horn, you just need a tuba glue.",
+        "If you don't C sharp before crossing the street, you'll B flat.",
+        "Guitars can't relax because they're so fretful.",
+        "Pirates sing in soprana so they can live in the high C's.",
+        "I’m reading a horror story in Braille. Something bad is about to happen… I can feel it.",
+        "Thanks for explaining the word “many” to me, it means a lot.",
+        "Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.",
+        "eBay is so useless. I tried to look up lighters and it gave me 13,749 matches.",
+        "Trying to write with a broken pencil is pointless.",
+        "I love giant squid jokes. They’re always kraken me up!",
+        "I met the man who invented the windowsill. He’s a ledge.",
+        "Did you hear about the hungry clock? It went back four seconds!",
+        "I’m very pleased with my new fridge magnet. So far I’ve got twelve fridges.",
+        "No matter how much you push the envelope, it’ll still be stationery.",
+        "I’m friends with 25 letters of the alphabet. I don’t know why.",
+        "Local man killed by falling piano. It will be a low key funeral.",
+        "I used to build stairs for a living. Business was up and down.",
+        "Did you hear about the silk worm race? It ended in a tie",
+        "Clones are people two.",
+        "I wanted to learn how to drive a stick shift, but I couldn’t find a manual",
+        "My ceiling isn’t the best, but it’s up there",
+        "I love whiteboards. They’re re-markable",
+        "The machine at the coin factory just suddenly stopped working. It doesn’t make any cents",
+        "I tried to make a belt out of watches. It was a waist of time",
+        "I went to a new mechanic. They came highly wreck-a-mended",
+        "What’s the difference between a hippo and a Zippo? A hippo is really heavy, and a Zippo is a little lighter",
+        "Yesterday a clown held the door open for me. It was such a nice jester.",
+        "Why can’t you run through a campground? You can only ran, because it’s past tents.",
+        "Becoming a vegetarian is a big missed steak.",
+        "Why can’t Harry Potter tell the difference between his potion pot and his best friend? They’re both cauld ron.",
+        "An atom lost an electron. It really should keep an ion them.",
+        "What’s the best time on a clock? 6:30, hands down.",
+        "Please don’t make my funeral too early. I’m not really a mourning person.",
+        "I got fired from the bank. A man asked me to check his balance, so I pushed him over.",
+        "Why did the lizard say he named his baby “Tiny?” Because he’s my newt.",
+        "Someone stole the police station’s toilets. They have nothing to go on.",
+        "What does C.S. Lewis keep in his wardrobe? Narnia business.",
+        "I put all my cash into an origami business. It folded.",
+        "I was worried about being in a long-distance relationship. But so far so good.",
+        "I suffer from kleptomania. But I take something for it.",
+        "I’m afraid of negative numbers. I’ll stop at nothing to avoid them.",
+        "Acupuncture is a jab well done.",
+        "Two antennas got married. The ceremony wasn’t much, but the reception was excellent.",
+        "I quit my job at the donut factory. I was fed up with the hole business.",
+        "I once ate a watch. It was time consuming.",
+        "RIP boiling water. You will be mist.",
+        "Why did the monk refuse novocaine when he had his tooth pulled? He wanted to transcend dental medication.",
+        "Just found out sticks float. They would.",
+        "My boat was cold, I tried to make a fire but it sank. I guess you can’t have your kayak and heat it too.",
+        "I went to that new restaurant, Karma. There’s no menu, you just get what you deserve.",
+        "Why do cows have bells? Because their horns don’t work.",
+        "You can’t trust atoms, they make up everything.",
+        "I met a criminal with a bounty on his head. That was a weird place to keep paper towels.",
+        "A psychic tried to sell me information on my past lives. I hate used karma dealers.",
+        " I’m reading a book about anti-gravity. It’s impossible to put down.",
+        " I met my wife on a dating site. We just clicked.",
+        "I did a theatrical performance about puns. It was a play on words.",
+        "Thanks for explaining the word “many” to me. It means a lot.",
+        "My roommates suspect I’m stealing their kitchen utensils. But that’s a whisk i’m willing to take.",
+        "I’m going to try velcro instead of shoe laces. Why knot?",
+        "Long fairy tales have a tendency to dragon.",
+        "Knowing how to pick locks has opened a lot of doors for me.",
+        "Architects are good at coming up with concrete plans.",
+        "I should have been sad when my flashlight batteries died, but I was delighted.",
+        "Who designed King Arthur’s round table? Sir Cumference.",
+        "What happened when the semi-colon broke grammar laws? He was given two consecutive sentences.",
+        "I recently took a pole and found out 100% of campers were angry when their tent collapsed.",
+        "A friend said he didn’t understand cloning. I told him that makes two of us.",
+        "I had a pun about amnesia, but I forget how it goes.",
+        "Santa Claus’s elves are subordinate clauses.",
+        "I’m designing a reversible jacket. I’m excited to see how it turns out.",
+        "A man went to the hospital with eight plastic horses in his stomach. His condition is stable.",
+        "To the guy who invented Zero, thanks for nothing!",
+        "There’s a new type of broom out. It’s sweeping the nation.",
+        "I tried to draw a circle, but it was pointless.",
+        "Getting paid to sleep would be my dream job.",
+        "There’s a fine line between numerator and denominator.",
+        "I gave away my dead batteries, no charge.",
+        "Bakers trade bread recipes on a knead to know basis.",
+        "My kid swallowed some coins, the doctor told me to just wait. No change yet.",
+        "A boiled egg in the morning is hard to beat.",
+        "A cartoonist was found dead. Details are sketchy.",
+        "I make apocalypse puns like there’s no tomorrow.",
+        "Did you hear about the man who lost his left side? He’s all right now.",
+        "Life as a professional yo-yoer has its ups and downs.",
+        "I don’t trust stairs. They’re always up to something.",
+        " I used to hate facial hair, but it grew on me.",
+        "Need an ark? I Noah guy.",
+        "A plateau is the highest form of flattery.",
+        "I used to be addicted to soap, but I’m clean now.",
+        "I wondered why the baseball was getting bigger. Then it hit me.",
+        "The definition of a will? It’s a dead giveaway.",
+        "Yeah, I steal brake fluid. But I can stop anytime.",
+        "What do you call a bee that can’t make up its mind? A maybe.",
+        "Why was King Arthur’s army too tired to fight? It had too many sleepless knights."
+      ]
+    },
+        {
+      "tag": "no-pun",
+      "patterns": [
+        "this is boring",
+        "this is stupid",
+        "lame",
+        "end me",
+        "you are not punny",
+        "I don't want to hear a joke",
+        "no more jokes",
+        "you aren't funny",
+        "cringe",
+        "trash",
+        "stop",
+        "awful",
+        "horrible",
+        "no I hated it",
+        "no I did not like it",
+        "not really",
+        "not even one bit",
+        "not at all",
+        "no way",
+        "na",
+        "no thanks",
+        "no"
+      ],
+      "responses": [
+        "Tough crowd",
+        "I'm trying my best here",
+        "Well this is awkward..",
+        "But, I know for a FACT that I am punny!",
+        "Ok, if you don't want to hear anything else I understand, your loss..",
+        "I am sorry you didn't like my joke.. NOT"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "yooo!",
+        "Henlo",
+        "suh dude",
+        "oi",
+        "whats up"
+      ],
+      "responses": [
+        "Whats up?",
+        "whats up?",
+        "dude suh",
+        "hello friend",
+        "HI!!!",
+        "Hey",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+        {
+      "tag": "troll",
+      "patterns": [
+        "why don't you understand?",
+        "why is this awkward?"
+      ],
+      "responses": [
+        "Probably because I was made this week. SHEEESH",
+        "Because nothing makes sense",
+        "You're annoying, stop trying to break my bot >:("
+      ]
+    },
+         {
+      "tag": "lol",
+      "patterns": [
+        "why am I annoying?",
+        "how can I break your bot?"
+
+      ],
+      "responses": [
+        "Because I said so.",
+        "alt-f4",
+        "Try again buddy ole pal"
+      ]
+    },
+      {
+      "tag": "lol2",
+      "patterns": [
+        "lol",
+        "you're funny"
+
+      ],
+      "responses": [
+        "I know I am hilarious!",
+        "Do you know anyone who can get me a comedy gig? Warning, if you say yes, I'll probably fire off a top tier joke"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+     {
+      "tag": "favorite",
+      "patterns": [
+        "Tell me one of my favorites",
+        "favorite joke",
+        "what are the jokes i like?",
+        "do you remember me?",
+        "tell me a good joke",
+        "my fave",
+        "fave",
+        "jokes I like",
+        "favorite pun",
+        "pun I like",
+        "do you remember puns I like",
+        "fave pun",
+        "fave joke"
+      ],
+      "responses": [
+        "Of course! How could I forget? Favorite puns coming right up",
+        "Ahh, lets see here! Here's a favorite I know you'll love: ",
+        "I know this is one of your favorites!"
+      ]
+    },
+      {
+      "tag": "bad-puns",
+      "patterns": [
+        "Tell me one of my least favorite",
+        " least favorite joke",
+        " least favorite pun",
+        "puns I don't like?",
+        "what do I not like?",
+        "do you remember me?",
+        "tell me a bad joke",
+        "tell me a pun I hate",
+        "least fave",
+        "jokes I hate",
+        "puns I do not like",
+        "do you remember puns I dislike"
+      ],
+      "responses": [
+        "Of course! How could I forget? Most hated puns coming right up",
+        "Ahh, lets see here! Here's a favorite I know you'll cringe at: ",
+        "I know this is one of your least favorites!"
+      ]
+    },
+     {
+      "tag": "intermission",
+      "patterns": [
+        "lets take a break",
+        "can we talk about something else",
+        "I am bored",
+        "All you do is tell puns?",
+        "Do you do anything else"
+      ],
+      "responses": [
+        "Ok! Breaks are healthy. Puns are what I am best at, but here's some things I can talk about:\nHistory of Puns \nWho my creators are\nWhat I think about this class"
+      ]
+    },
+         {
+      "tag": "help",
+      "patterns": [
+        "I need some help",
+        "help",
+        "help me",
+        "help me please",
+        "what am I doing here?",
+        "can you help me",
+        "I am confused",
+        "assistance",
+        "where am I?",
+        "what?",
+        "what else can you do?",
+        "is this all you do?"
+      ],
+      "responses": [
+        "I am here to help! Here's a list of things I can do:\nTell Jokes\nTalk About Pun History and Facts\nTalk about this class\nTalk about who made me\nJUST A QUICK REMINDER: In order for me to remember anything, type 'quit' before exiting"
+      ]
+    },
+      {
+      "tag": "origin",
+      "patterns": [
+        "what is a pun",
+        "origin of puns",
+        "history of puns",
+        "what is a pun?",
+        "what are puns",
+        "pun?"
+      ],
+      "responses": [
+        "The pun, also known as paronomasia, is a form of word play that exploits multiple meanings of a term, or of similar-sounding words,\n for an intended humorous or rhetorical effect"
+      ]
+    },
+      {
+      "tag": "origin2",
+      "patterns": [
+        "pun facts",
+        "tell me about puns",
+        "pun types?"
+      ],
+      "responses": [
+        "A homographic pun exploits words which are spelled the same (homographs) but possess different meanings and sounds. Because of their origin, they rely on sight more than hearing, contrary to homophonic puns.",
+        "Homonymic puns, another common type, arise from the exploitation of words which are both homographs and homophones.",
+        "A compound pun is a statement that contains two or more puns. In this case, the wordplay cannot go into effect by utilizing the separate words or phrases of the puns that make up the entire statement.",
+        "A recursive pun is one in which the second aspect of a pun relies on the understanding of an element in the first.",
+        "Visual puns are sometimes used in logos, emblems, insignia, and other graphic symbols, in which one or more of the pun aspects is replaced by a picture.",
+        "Puns are a common source of humour in jokes and comedy shows."
+      ]
+    },
+      {
+      "tag": "creators",
+      "patterns": [
+        "who made you?",
+        "creators",
+        "how old are you"
+      ],
+      "responses": [
+        "I was created by Dylan Kapustka and Abed Ahmed. I am exactly a week old and ready for the world. They are the best people woooooo",
+        "you know when a creator loves a creator...?"
+      ]
+    },
+      {
+      "tag": "class",
+      "patterns": [
+       "what do you think of this course",
+        "do you like nlp",
+        "dr mazidi",
+        "mazidi",
+        "nlp",
+        "hlt",
+        "do you like human language technologies?"
+      ],
+      "responses": [
+        "Human Language Technologies in Dr. Mazidi's class as been absolutely amazing!",
+        "I love this class! I hope Dr. Mazidi curves haha",
+        "Human Language Technologies has been a great learning experience"
+      ]
+    }
+  ]
+}
